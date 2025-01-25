@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Best-of Algorithmic Trading
+    Tricks-of Algorithmic Trading
     <br>
 </h1>
 
